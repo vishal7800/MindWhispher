@@ -1,0 +1,1 @@
+https://mindwhisperer.netlify.app/
